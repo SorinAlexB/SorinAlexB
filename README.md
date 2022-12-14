@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @SorinAlexB
-- 👀 I’m interested in AI and OOP
-- 🌱 I’m currently learning Python and the basics of AI
 - 📫 email address: birchi_sorin@yahoo.com
 
 <!---
