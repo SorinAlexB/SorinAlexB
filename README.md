@@ -29,21 +29,26 @@
 
 ### Languages and Tools:
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
+<img align="left" width="35px" src="images/anaconda-original.svg"/>
+<img align="left" width="35px" src="images/bash-original.svg"/>
+<img align="left" width="35px" src="images/c-original.svg"/>
+<img align="left" width="35px" src="images/cmake-original.svg"/>
+<img align="left" width="35px" src="images/cplusplus-original.svg"/>
+<img align="left" width="35px" src="images/git-original.svg"/>
+<img align="left" width="35px" src="images/github-original.svg"/>
+<img align="left" width="35px" src="images/jupyter-original-wordmark.svg"/>
+<img align="left" width="35px" src="images/kaggle-original.svg"/>
+<img align="left" width="35px" src="images/latex-original.svg"/>
+<img align="left" width="35px" src="images/linux-original.svg"/>
+<img align="left" width="35px" src="images/numpy-original.svg"/>
+<img align="left" width="35px" src="images/pandas-original.svg"/>
+<img align="left" width="35px" src="images/rust-plain.svg"/>
+<img align="left" width="35px" src="images/ubuntu-plain.svg"/>
+<img align="left" width="35px" src="images/vscode-original.svg"/>
 
 <br />
 <br />
-
-
+<br />
 <details>
   <summary>:zap: GitHub Stats</summary>
 
