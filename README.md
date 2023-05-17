@@ -18,7 +18,7 @@
 <a target="_blank" href="https://www.linkedin.com/in/sorin-ioan-alexandru-birchi-14563a258/">
   <img align="left" width="35px" src="images/linkedin.svg"/>
 </a>
-<a target="_blank" href="sb.birchi.sorin@gmail.com">
+<a target="_blank" href="mailto:sb.birchi.sorin@gmail.com">
   <img align="left" width="35px" src="images/gmail.svg"/>
 </a>
 <a target="_blank" href="https://www.instagram.com/sorin.alex29/">
