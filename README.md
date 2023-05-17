@@ -28,23 +28,32 @@
 <br />
 
 ### Languages and Tools:
-
-<img align="left" width="35px" src="images/anaconda-original.svg"/>
-<img align="left" width="35px" src="images/bash-original.svg"/>
+<img align="left" width="35px" src="images/python-original.svg"/>
 <img align="left" width="35px" src="images/c-original.svg"/>
-<img align="left" width="35px" src="images/cmake-original.svg"/>
 <img align="left" width="35px" src="images/cplusplus-original.svg"/>
-<img align="left" width="35px" src="images/git-original.svg"/>
-<img align="left" width="35px" src="images/github-original.svg"/>
-<img align="left" width="35px" src="images/jupyter-original-wordmark.svg"/>
-<img align="left" width="35px" src="images/kaggle-original.svg"/>
-<img align="left" width="35px" src="images/latex-original.svg"/>
 <img align="left" width="35px" src="images/linux-original.svg"/>
+<img align="left" width="35px" src="images/ubuntu-plain.svg"/>
+<img align="left" width="35px" src="images/git-original.svg"/>
+<img align="left" width="35px" src="images/cmake-original.svg"/>
+<img align="left" width="35px" src="images/anaconda-original.svg"/>
+<img align="left" width="35px" src="images/jupyter-original-wordmark.svg"/>
 <img align="left" width="35px" src="images/numpy-original.svg"/>
 <img align="left" width="35px" src="images/pandas-original.svg"/>
-<img align="left" width="35px" src="images/rust-plain.svg"/>
-<img align="left" width="35px" src="images/ubuntu-plain.svg"/>
+<img align="left" width="35px" src="images/kaggle-original.svg"/>
 <img align="left" width="35px" src="images/vscode-original.svg"/>
+<img align="left" width="35px" src="images/github-original.svg"/>
+<img align="left" width="35px" src="images/latex-original.svg"/>
+<img align="left" width="35px" src="images/bash-original.svg"/>
+<img align="left" width="35px" src="images/rust-plain.svg"/>
+
+
+
+
+
+
+
+
+
 
 <br />
 <br />
