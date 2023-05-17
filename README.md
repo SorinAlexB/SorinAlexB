@@ -1,8 +1,8 @@
 # Hi there, I'm Sorin👋 
 
-[![HackerRank](https://www.hackerrank.com/birchi_sorin)
+[HackerRank](https://www.hackerrank.com/birchi_sorin)
 
-[![LeetCode](https://leetcode.com/SorinAlexB/)
+[LeetCode](https://leetcode.com/SorinAlexB/)
 
 
 
