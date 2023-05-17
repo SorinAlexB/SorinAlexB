@@ -6,8 +6,8 @@
 
 
 
-## I'm student at (POLITEHNICA of Bucharest University)[https://upb.ro/en/]
-## Bachelor of engineering in (Automatic Control and Computer Science)[https://upb.ro/en/faculties/the-faculty-of-automatic-control-and-computer-science/] (2022-2026)
+## I'm student at [POLITEHNICA of Bucharest University](https://upb.ro/en/)
+## Bachelor of engineering in [Automatic Control and Computer Science](https://upb.ro/en/faculties/the-faculty-of-automatic-control-and-computer-science/) (2022-2026)
 
 - 🌱 I’m currently learning a little bit of everything 🤣
 - 👯 I’m looking to collaborate with other content creators
