@@ -4,6 +4,7 @@
 
 [LeetCode](https://leetcode.com/SorinAlexB/)
 
+<img align='right' src='images/demon-sladdyer.gif' >
 
 
 ## I'm student at [POLITEHNICA of Bucharest University](https://upb.ro/en/)
