@@ -4,8 +4,6 @@
 
 [LeetCode](https://leetcode.com/SorinAlexB/)
 
-<img align='right' src='images/demon-sladdyer.gif' >
-
 
 ## I'm student at [POLITEHNICA of Bucharest University](https://upb.ro/en/)
 ## Bachelor of engineering in [Automatic Control and Computer Science](https://upb.ro/en/faculties/the-faculty-of-automatic-control-and-computer-science/) (2022-2026)
