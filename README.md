@@ -9,7 +9,6 @@
 ## Bachelor of engineering in [Automatic Control and Computer Science](https://upb.ro/en/faculties/the-faculty-of-automatic-control-and-computer-science/) (2022-2026)
 
 - 🌱 I’m currently learning a little bit of everything 🤣
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Learn more about Machine Learning and Deep Learning
 - 🧐 Prefered Class: Data Structures and Algorithms
 
