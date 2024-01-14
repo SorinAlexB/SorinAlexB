@@ -40,7 +40,6 @@
 <img align="left" width="35px" src="images/github-original.svg"/>
 <img align="left" width="35px" src="images/latex-original.svg"/>
 <img align="left" width="35px" src="images/bash-original.svg"/>
-<img align="left" width="35px" src="images/rust-plain.svg"/>
 
 
 
